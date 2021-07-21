@@ -1,0 +1,17 @@
+com\ewen\crud\pojo\DepartmentExample$GeneratedCriteria.class
+com\ewen\crud\pojo\Department.class
+com\ewen\crud\controller\DepartmentController.class
+com\ewen\crud\pojo\EmployeeExample.class
+com\ewen\crud\service\DepartmentService.class
+com\ewen\crud\pojo\DepartmentExample$Criterion.class
+com\ewen\crud\dao\DepartmentMapper.class
+com\ewen\crud\pojo\DepartmentExample$Criteria.class
+com\ewen\crud\pojo\DepartmentExample.class
+com\ewen\crud\pojo\EmployeeExample$Criterion.class
+com\ewen\crud\controller\EmployeeController.class
+com\ewen\crud\pojo\Msg.class
+com\ewen\crud\dao\EmployeeMapper.class
+com\ewen\crud\pojo\EmployeeExample$GeneratedCriteria.class
+com\ewen\crud\service\EmployeeService.class
+com\ewen\crud\pojo\Employee.class
+com\ewen\crud\pojo\EmployeeExample$Criteria.class
